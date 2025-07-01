@@ -1,2 +1,28 @@
-# powerbi-capstone-healthcare-03
-Power BI Capstone Project for DSA3050 | Scenario 2 – Healthcare. Focused on optimizing emergency room operations using patient flow analytics, staffing simulation, and readmission risk modeling. Built with Power BI and DAX, using a simulated ER dataset of 5,000 visits. Team 02 – Summer 2025.
+# Power BI Capstone Project – [Healthcare: Patient Flow Intelligence]
+
+**Group [2]** | DSA 3050 – Summer '25 Semester Project
+
+## Group Members
+- Abdirisak Hussein
+- Kemo Dibassy
+- Wesley Clyde Fenjo Sitati
+
+## Project Summary
+
+
+## Key Deliverables
+- Business KPIs
+- Top 3 insights
+- ROI estimate summary
+
+## Technical Features
+- Star schema model with RLS
+- 30+ DAX measures
+- Mobile layout included
+- Parameters and drill-through enabled
+
+## Published Dashboard
+[Click to View Live Report]
+
+## Presentation Materials
+See `documentation/` folder for full report.
