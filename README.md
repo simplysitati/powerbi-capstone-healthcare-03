@@ -79,7 +79,9 @@ Insights:
 - Overall ER wait time averages 81.92 mins
 
 ### Staffing & Outcome Intelligence
-![Dashboard 2](screenshots/staffing_outcome_view.png)
+Star Schema
+![Dashboard Screenshot](screenshot/group project schema.png)
+
 
 Insights:  
 - Specialist availability drops on weekends  
