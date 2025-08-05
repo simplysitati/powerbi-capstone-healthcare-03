@@ -22,7 +22,7 @@
 - Parameters and drill-through enabled
 
 ## Published Dashboard
-[Click to View Live Report]
+[[Click to View Live Report]]([url](https://app.powerbi.com/view?r=eyJrIjoiZGI2NzBlYzktN2FhYS00NjExLWFhNTctMWUzOTMxNDAyZGYwIiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9))
 
 ## Presentation Materials
 See `documentation/` folder for full report.
